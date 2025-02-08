@@ -1,0 +1,20 @@
+{
+  "name": "jsdropdown",
+  "version": "1.0.0",
+  "description": "custom dropdown menu build in JS",
+  "homepage": "https://github.com/kazeneza-zephilin/custom-dropdown#readme",
+  "bugs": {
+    "url": "https://github.com/kazeneza-zephilin/custom-dropdown/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazeneza-zephilin/custom-dropdown.git"
+  },
+  "license": "ISC",
+  "author": "kazeneza zephilin",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
