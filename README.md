@@ -1,5 +1,5 @@
 # Custom readme dropdown
-Simple & minimalistic yet cool and eye catching dropdown build with `vanilla JavaScript`
+Simple & minimalistic yet cool and eye catching dropdown built with `vanilla JavaScript`
 
 ## run 
 ```js
